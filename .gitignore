@@ -1,0 +1,14 @@
+# Archivos de configuración de dependencias
+node_modules/
+
+# Archivos de cobertura
+**/coverage/
+
+# Archivos de compilación
+**/build/
+
+# Archivos de minificación
+**/dist/
+
+# Archivos de configuración de Storybook
+**/.storybook/

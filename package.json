@@ -1,0 +1,25 @@
+{
+    "name": "react18-ssr-from-zero",
+    "version": "1.0.0",
+    "description": "A demo project for React 18 SSR with progressive hydration",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "build": "webpack --config webpack.config.js"
+    },
+    "engines": {
+        "node": "18.20.0",
+        "npm": "10.5.0"
+    },
+    "dependencies": {
+        "@babel/core": "^7.24.3",
+        "@babel/preset-env": "^7.24.3",
+        "@babel/preset-react": "^7.24.1",
+        "express": "^4.19.2",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "webpack": "^5.91.0",
+        "webpack-cli": "^5.1.4",
+        "webpack-node-externals": "^3.0.0"
+    }
+}

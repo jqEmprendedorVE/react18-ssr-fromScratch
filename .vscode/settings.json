@@ -1,0 +1,9 @@
+{
+    "editor.autoSave": "afterDelay",
+    "editor.autoSaveDelay": 2000,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 2000,
+    "workbench.saveAllOnExit": true,
+    "workbench.confirmCloseWithoutSaving": false
+  }
+  
