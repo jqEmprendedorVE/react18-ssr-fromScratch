@@ -36,8 +36,11 @@ npm start
 ```
 
 ## Estructura de Archivos
+
 `src/`: Código fuente, incluyendo server.tsx para el servidor SSR y App.tsx para el componente React.
+
 `dist/`: Archivos compilados listos para producción.
+
 `esbuild.config.js`: Configuración de esbuild para el build y desarrollo.
 
 ## Licencia
